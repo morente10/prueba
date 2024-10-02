@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!-- Catalogo de peliculass-->
 <catalogo>
     <pelicula genero="accion" duracion="150">
         <titulo>Gladiator</titulo>
-        <directo>Ridley Scott</director>
+        <directo>Ridley Scott
+        </director>
         <reparto>
             <actor>Rusell Crowe</actor>
             <actor>Joaquin Phoenix</actor>
             <actor>Connie Nietsen</actor>
         </reparto>
-        <fecha_estreno> 
-            <dia>1</di>
+        <fecha_estreno>
+            <dia>1
+            </di>
             <mes>1</mes>
             <anio>2000</anio>
         </fecha_estreno>
@@ -23,15 +26,13 @@
             <actor>Joaquin Phoenix</actor>
             <actor>Connie Nietsen</actor>
         </reparto>
-        <fecha_estreno> 
+        <fecha_estreno>
             <dia>1</dia>
             <mes>1</mes>
             <anio>2000</anio>
         </fecha_estreno>
 
     </pelicula>
-
-
 
 
 </catalogo>
